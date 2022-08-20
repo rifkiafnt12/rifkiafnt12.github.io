@@ -149,8 +149,8 @@ ul {
   position: relative;
 }
 .aside .logo a span {
-  font-family: "Clicker Script", cursive;
-  font-size: 50px;
+  font-family: "Righteous", cursive;
+  font-size: 35px;
 }
 .aside .logo a::before {
   content: "";
@@ -278,7 +278,7 @@ h3.my-experience {
   width: 70px;
   border-bottom: 9px solid var(--skin-color);
   border-right: 9px solid var(--skin-color);
-  right: 35px;
+  right: 20px;
   bottom: -45px;
 }
 .home-img::before {
@@ -288,7 +288,7 @@ h3.my-experience {
   width: 70px;
   border-top: 9px solid var(--skin-color);
   border-left: 9px solid var(--skin-color);
-  left: 35px;
+  left: 20px;
   top: -45px;
 }
 .home .home-img img {
